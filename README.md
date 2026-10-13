@@ -1,5 +1,7 @@
 # Microduck 复刻 · SolidWorks 三维图纸与装配说明书
 
+**简体中文** · [English](README.en.md)
+
 > **可编辑的 SolidWorks 源文件**（不是 STL），外加一份 21 页的装配安装说明书。**两个版本**：
 > **v2.1 飞特 HD-1910 版**（2026-09-25，轮辋 + 轮胎合并）和 **v1.1 原版 XL330 版**（2026-09-15，踝 / 小腿 / 脚同步改了）。
 > 配套主仓：[**fanhao375/microduck-replica**](https://github.com/fanhao375/microduck-replica) —— 整机复刻、电路板与逆向分析都在那边。
